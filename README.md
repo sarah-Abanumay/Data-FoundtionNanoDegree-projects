@@ -1,3 +1,5 @@
+I am leaving this open source. Please do not plagarize my code! 
+
 # Data-Foundtion Nanodegrees at Udacity.
 
 # list of project to complate course Data-Foundtion Nanodegrees
